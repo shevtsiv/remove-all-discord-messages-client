@@ -2,7 +2,7 @@
 A simple Discord client for removing all user messages from the specified server written in Python
 
 ## Usage
-In order to run this client you must have Python installed on your machine: https://www.python.org/downloads/
+In order to run this client you must have Python installed on your machine: https://www.python.org/downloads/  
 Also, you will need Git for downloading the project: https://git-scm.com/downloads. If you do not want to install Git, just download repository manually as an archive.
 
 1. Install `discord.py` Python library for accessing the Discord API:
